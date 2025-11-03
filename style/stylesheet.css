@@ -33,6 +33,7 @@ header img{
 
 time{
     font-size: 12px;
+    padding-top: 0px;
 }
 
 .title p > span{
@@ -44,6 +45,38 @@ figcaption{
     font-weight: 800;
 }
 
-.imgs{
-    margin-bottom: 50px;
+
+article{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+
+ul{
+    padding-left: 2rem;
+
+}
+
+table{
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+
+.theader{
+    color: white;
+    background-color: hsl(198.27deg 79.12% 51.18%);
+}
+
+th{
+    text-align: left;
+}
+
+.larger-column{
+    width: 50%;
+    text-align: left;
+}
+
+.lightblue-row{
+    background-color: rgb(177 229 242);
 }
