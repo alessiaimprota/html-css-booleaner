@@ -94,15 +94,25 @@ footer p{
     color: rgb(137 137 137);
 }
 
+footer > p{
+    padding-bottom: 20px;
+}
+
 .adv{
     background-size: contain;
     background-repeat: no-repeat;
-    height: 300px;
+    height: 210px;
     width: 300px;
     color: white;
     font-weight: 900;
+    padding: 15px;
+    font-size: 24px;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
 #adv1 {
     background-image: url(../imgs/monitor.jpg);
     }
