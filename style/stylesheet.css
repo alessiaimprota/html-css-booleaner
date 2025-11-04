@@ -107,7 +107,7 @@ footer > p{
     font-weight: 900;
     padding: 15px;
     font-size: 24px;
-}
+    display: block;}
 
 a{
     color: white;
